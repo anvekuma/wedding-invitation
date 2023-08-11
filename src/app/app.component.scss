@@ -1,0 +1,25 @@
+.custom-button {
+    padding: 10px 20px;
+    border: none;
+    background-color: rebeccapurple;
+    color: #fff;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  
+    &:hover {
+      background-color: goldenrod;
+    }
+  }
+
+  .custom {
+    display: block;
+    text-align: center;
+    border-radius: 12px;
+    background-color: lavender;
+  }
+
+  .ganesh{
+      width: 35px;
+  }
